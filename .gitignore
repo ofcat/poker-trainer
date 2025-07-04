@@ -1,0 +1,13 @@
+# python
+backend/venv/
+*.pyc
+--pycache--/
+
+# node
+frontend/node_modules/
+frontend/.svelte-kit/
+
+# OS
+.DS_Store
+Thumbs.db
+
